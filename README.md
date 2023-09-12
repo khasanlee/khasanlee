@@ -1,1 +1,6 @@
 Hello everyone :wave:. I am Khasan Iskandarov, 3rd year student in the **Department of Computer Science and Engineering** in **SEOULTECH**.
+My hobby is playing guitar :guitar:.
+
+I will try my best for exchange my skill with you. 
+
+Thank you :smile:.
