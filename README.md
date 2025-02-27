@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m learning React.js and improving my JavaScript skills.
 - 💬 Ask me about web development and coding!
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khasanlee&show_icons=true&theme=dark)
