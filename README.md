@@ -1,22 +1,41 @@
-
-
 <!--
 **khasanlee/khasanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-# Hi👋
-- 🔭 I’m currently working on front-end projects.
-- 🌱 I’m learning React.js and improving my JavaScript skills.
-- 💬 Ask me about web development and coding!
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khasanlee&show_icons=true&theme=dark)
+# Hi there! 👋
+
+I'm **Hassan**, a passionate front-end developer who loves building interactive web experiences. 🚀  
+
+## 🚀 About Me
+- 🔭 Currently working on front-end projects with **React.js**
+- 🌱 Always learning & improving **JavaScript** and exploring new technologies
+- 💬 Ask me about **web development, React, and front-end best practices**
+- 🎯 Fun fact: I was a guitarist in the **Graymood** band! 🎸  
+
+---
+
+## 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,mongodb,git,github" alt="Tech Stack" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khasanlee&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khasanlee&theme=dark" />
+</p>
+
+---
+
+## 🔥 GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khasanlee&theme=github-dark" />
+</p>
+
+---
+
+## 🌎 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717
